@@ -7,7 +7,7 @@ I used Python to modify the API of the following zaytoun, and by my edit:<br>
 It is very convenient to use "original web site or doi" as input to modify paper_url.<br>
 It just need to change the inside the file when you begin to use, so as to facilitate mass download.<br>
 ## For example:
-Open sci-hub.py and input whatever you want to download.
+Open sci-hub.py and input the paper whatever you want to download.
 ```
 paper_url=('QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ',
             'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
