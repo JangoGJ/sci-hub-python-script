@@ -1,5 +1,6 @@
-# sci-hub-python-script
-sci-hub python-script used python3.X
+sci-hub python-script
+[![Python](https://img.shields.io/badge/Python-3%2B-blue.svg)](https://www.python.org)<br>
+=========
 ## First of all, thanks original author: zaytoun! 
 Thanks for the amazing api of sci-hub used python.(https://github.com/zaytoun/scihub.py)<br>
 I used Python to modify the API of the following zaytoun, and by my edit:<br>
