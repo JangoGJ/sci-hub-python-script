@@ -7,7 +7,16 @@ I used Python to modify the API of the following zaytoun, and by my edit:<br>
 It is very convenient to use "original web site or doi" as input to modify paper_url.<br>
 It just need to change the inside the file when you begin to use, so as to facilitate mass download.<br>
 ## For example:
-paper_url=('QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ',<br>
->>>>'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',<br>
->>>>'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'<br>
-)<br>
+```
+paper_url=('QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ',
+            'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+            'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'
+           )
+```
+## Requirements
+```
+beautifulsoup4
+requests
+retrying
+pysocks
+```
